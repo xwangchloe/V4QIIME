@@ -1,2 +1,2 @@
-
+source activate qiime2-2018.6 #When you open a new terminal
 cd /media/xyz/UCI4TB/Xiaoming/WOlbachiaProject/Analysis_qiime
